@@ -23,3 +23,5 @@ From this we can say that Males with high average income purchased more bikes th
 ![image](https://user-images.githubusercontent.com/54625974/232888134-4d7ff715-eb48-463b-b644-c9170134ef4a.png)
 
 ![image](https://user-images.githubusercontent.com/54625974/232888192-82c8d1fe-2781-49a6-86e1-6581d55ba62f.png)
+
+![image](https://user-images.githubusercontent.com/54625974/232888415-4a2e26ba-b880-411c-907d-46f4b4b5ef97.png)
