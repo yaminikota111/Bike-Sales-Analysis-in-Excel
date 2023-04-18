@@ -14,4 +14,4 @@ Bike Sales Analysis
 
 ![image](https://user-images.githubusercontent.com/54625974/232886749-ce394fa6-7c56-4a2f-9b45-04b9aee17b34.png)
 
-From this we can say that Males with high average income purchased more bikes tahn females
+From this we can say that Males with high average income purchased more bikes than females
